@@ -22,6 +22,12 @@ Este espaço é onde compartilho meu aprendizado, meus experimentos com código 
 
 ---
 
+## 🌐 Principais Linguagens Usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiafoliveira&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📊 Estatísticas GitHub
 
 <p align="center">
