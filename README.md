@@ -25,7 +25,7 @@ Este espaço é onde compartilho meu aprendizado, meus experimentos com código 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiafigueiredo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiafoliveira&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
