@@ -36,3 +36,13 @@ Este espaço é onde compartilho meu aprendizado, meus experimentos com código 
 
 ---
 
+## 🎯 Meus objetivos
+
+Busco me tornar uma desenvolvedora versátil, com foco em soluções criativas e eficientes, pronta para atuar em equipes multidisciplinares e aprender continuamente.
+
+---
+
+## 📬 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sofia-figueiredo-de-oliveira)
+- 📧 Email: sofiafo804@gmail.com
